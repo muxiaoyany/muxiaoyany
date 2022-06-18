@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muxiaoyany)](https://git.io/streak-stats)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muxiaoyany&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=muxiaoyany&show_icons=true&theme=dark&count_private=true)
