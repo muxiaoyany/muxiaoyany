@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muxiaoyany)](https://git.io/streak-stats)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muxiaoyany&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muxiaoyany&show_icons=true&theme=dark&count_private=true)
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muxiaoyany&theme=xcode)](https://github.com/sun0225SUN)
+
