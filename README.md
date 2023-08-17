@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=muxiaoyany)](https://github.com/anuraghazra/github-readme-stats)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muxiaoyany&theme=dark&layout=compact)
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muxiaoyany&theme=xcode)](https://github.com/sun0225SUN)
 
